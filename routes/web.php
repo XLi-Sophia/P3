@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// view to welcome.blade.php without controller
+Route::get('/','FormController@welcome');
+
+// calculate when form submitted
+Route::get('/calculate', 'FormController@calProcess');
+// route /help page to FormController help()
+Route::get('/help','FormController@help');
