@@ -206,7 +206,7 @@
       <path value="$PROJECT_DIR$/vendor/illuminate/html" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="841" />
     <option name="width" value="1097" />
     <option name="height" value="1023" />
@@ -290,16 +290,15 @@
       <option name="presentableId" value="Default" />
       <updated>1554179396531</updated>
       <workItem from="1554179397721" duration="2884000" />
-      <workItem from="1554605658113" duration="54414000" />
+      <workItem from="1554605658113" duration="55011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57298000" />
+    <option name="totallyTimeSpent" value="57895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="561" y="0" width="731" height="682" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4913495" visible="true" weight="0.3099851" />
       <window_info id="Structure" order="1" sideWeight="0.50865054" side_tool="true" weight="0.24878837" />
