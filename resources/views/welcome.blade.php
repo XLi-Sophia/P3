@@ -14,13 +14,13 @@
 
     <form method='GET' action='/calculate'>
         <p>
-            <label for='gender'>Head of the Household :</label>
+            <label>Head of the Household :</label>
             <input type='radio' name='gender' value='Female'>Female
             <input type='radio' name='gender' value='Male'>Male
             <input type='radio' name='gender' value='Other'>Other
         </p>
         <p>
-            <label for='number1'>Annual Household Income <b>*</b> :</label>
+            <label>Annual Household Income <b>*</b> :</label>
             <input name='number1'
                    type='number'
                    class='form-control'
@@ -29,7 +29,7 @@
                    required>
         </p>
         <p>
-            <label for='number2'>Addition Household Income <b>*</b> :</label>
+            <label>Addition Household Income <b>*</b> :</label>
             <input name='number2'
                    type='number'
                    class='form-control'
@@ -38,7 +38,7 @@
                    required>
         </p>
         <p>
-            <label for='percent'>National Income Percentage :</label>
+            <label>National Income Percentage :</label>
             <input type='checkbox' name='percent' {{($percent) ? 'checked' : ''}}>
         </p>
         <p>

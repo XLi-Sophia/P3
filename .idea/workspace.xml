@@ -88,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FormController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="87" column="34" lean-forward="true" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+              <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -204,6 +204,8 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
       <path value="$PROJECT_DIR$/vendor/illuminate/html" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
@@ -223,17 +225,6 @@
             <path>
               <item name="P3" type="b2602c69:ProjectViewProjectNode" />
               <item name="P3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="P3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P3" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="P3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P3" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,12 +281,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554179396531</updated>
       <workItem from="1554179397721" duration="2884000" />
-      <workItem from="1554605658113" duration="55011000" />
+      <workItem from="1554605658113" duration="56197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57895000" />
+    <option name="totallyTimeSpent" value="59081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="561" y="0" width="731" height="682" extended-state="0" />
@@ -410,7 +401,7 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FormController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="87" column="34" lean-forward="true" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
         </state>
       </provider>
     </entry>
