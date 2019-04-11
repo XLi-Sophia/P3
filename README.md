@@ -8,9 +8,9 @@
 
 ## 3 Unique inputs 
 
-(1) Text input to indicate number value; * required fields
-(2) Checkbox to indicate percentage info display when selected; optional field
-(3) Radio Button that indicate the household income backet user belong to; optional field 
+1. Text input to indicate number value; * required fields
+2. Checkbox to indicate percentage info display when selected; optional field
+3. Radio Button that indicate the household income backet user belong to; optional field 
 
 ## Packages 
 + barryvdh/laravel-debugbar*  
