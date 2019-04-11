@@ -17,10 +17,6 @@
 <body>
 <div class='container'>
     <div class='content'>
-    <!--
-        <h1>Income Percentage Calculator</h1>
-        <h4><b>*</b> Fields are required.</h4>
-    -->
         <section>
             <h1>Income Percentage Calculator</h1>
             <h4><b>*</b> Fields are required.</h4>
