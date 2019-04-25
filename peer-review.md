@@ -50,12 +50,8 @@ Skim through the View files in `/resources/views` and address as many of the fol
 
 + Code can benefit from client side validation. Setup error message to reflect onto the browser when unexpected attribute value hit the server side validation.
 
-
 + I could implement the cache values from the object into my own project. 
 
-+ Are there any parts of the code that you don't understand?
-
-None.
 
 ## 6. Misc
 
