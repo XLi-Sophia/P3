@@ -47,7 +47,9 @@ Application allowed negative numbers. Result to negative converted value. It als
 + Try and access a URL on their site that likely does not exist (e.g. http://a3.domain.com/asdjfks)
 
 Test1: http://p3.beachboffin.com/test, 404 | Not Found was given.
+
 Test2: http://p3.beachboffin.com/convert?amount=%3Cscript%3Ealert%28123%29%3C%2Fscript&current=USD&target=1, ERR_TOO_MANY_REDIRECTS given.
+
 Test3: http://p3.beachboffin.com/convert?amount=2&current=YEN&target=2, 500 | Server Error was given.
 
 
