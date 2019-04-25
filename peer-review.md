@@ -1,7 +1,7 @@
 ## P3 Peer Review
 
 + Sophia Li 
-+ Daniel
++ Daniel M
 + https://github.com/kisa7081/p3
 
 
