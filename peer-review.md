@@ -39,7 +39,6 @@
 
 
 ## 4. Code: Views
-Skim through the View files in `/resources/views` and address as many of the following points as applicable:
 
 + The template inheritance was used.
 
